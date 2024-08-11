@@ -163,7 +163,7 @@ footer {
       --bg-url:url('./assets/bg-desktop.jpg');
   }
 
-  .light {
+  .light body {
       --bg-url:url('./assets/bg-desktop-light.jpg');
   }
 }
